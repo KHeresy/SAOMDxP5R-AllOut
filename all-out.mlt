@@ -18,7 +18,7 @@
   <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="00:00:08.826">
     <property name="length">523</property>
     <property name="eof">pause</property>
-    <property name="resource">./Cross-link.mp4</property>
+    <property name="resource">./Drop_char_video.mp4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -48,7 +48,7 @@
   <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutY1.mp4_snapshot_00.04.751.jpg</property>
+    <property name="resource">./drop_background.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -170,7 +170,7 @@
   <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutY1.mp4_snapshot_00.04.751a.png</property>
+    <property name="resource">./Final_background.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -288,7 +288,7 @@
   <producer id="producer17" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutY1.mp4_snapshot_00.04.751.jpg</property>
+    <property name="resource">./drop_background.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -369,7 +369,7 @@
   <producer id="producer20" title="Anonymous Submission" in="00:00:00.000" out="00:00:08.826">
     <property name="length">523</property>
     <property name="eof">pause</property>
-    <property name="resource">./Cross-link.mp4</property>
+    <property name="resource">./Drop_char_video.mp4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -380,7 +380,7 @@
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
     <property name="shotcut:hash">f61c3bcb81993757120e890a395d7fad</property>
-    <property name="shotcut:caption">Cross-link.mp4</property>
+    <property name="shotcut:caption">Drop_char_video.mp4</property>
     <filter id="filter9" in="00:00:02.080" out="00:00:02.164">
       <property name="version">0.5</property>
       <property name="mlt_service">frei0r.select0r</property>
@@ -413,7 +413,7 @@
   <producer id="producer21" title="Anonymous Submission" in="00:00:00.000" out="00:00:08.826">
     <property name="length">523</property>
     <property name="eof">pause</property>
-    <property name="resource">./Cross-link.mp4</property>
+    <property name="resource">./Drop_char_video.mp4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -424,7 +424,7 @@
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
     <property name="shotcut:hash">f61c3bcb81993757120e890a395d7fad</property>
-    <property name="shotcut:caption">Cross-link.mp4</property>
+    <property name="shotcut:caption">Drop_char_video.mp4</property>
     <filter id="filter11" in="00:00:02.181" out="00:00:02.452">
       <property name="version">0.5</property>
       <property name="mlt_service">frei0r.select0r</property>
@@ -457,7 +457,7 @@
   <producer id="producer22" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutY1.mp4_snapshot_00.04.751a.png</property>
+    <property name="resource">./Final_background.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
