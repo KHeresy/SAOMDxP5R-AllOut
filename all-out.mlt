@@ -4,7 +4,7 @@
   <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.990">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./al.png</property>
+    <property name="resource">./char_a.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -89,7 +89,7 @@
   <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.990">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutY1.mp4_snapshot_00.00.547a.png</property>
+    <property name="resource">./char_d.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -131,7 +131,7 @@
   <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutY1.mp4_snapshot_00.00.547.png</property>
+    <property name="resource">./char_c.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -144,7 +144,7 @@
   <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutA.mp4_snapshot_00.00.552.png</property>
+    <property name="resource">./char_b.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -238,7 +238,7 @@
   <producer id="producer16" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./al.png</property>
+    <property name="resource">./char_a.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -247,31 +247,35 @@
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
     <property name="shotcut:hash">144aab1d7e160586aae9e76645f41d44</property>
+    <property name="shotcut:caption">char_a.png</property>
+    <property name="shotcut:detail">D:\Document\My Video\SAOMD-AllOut\.\char_a.png</property>
     <filter id="filter3" out="00:00:00.609">
       <property name="background">colour:0</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineSizePosition</property>
       <property name="transition.fill">1</property>
       <property name="transition.distort">1</property>
-      <property name="transition.rect">00:00:00.000=-58 721 611 615 1;00:00:00.034=-58 721 611 615 1;00:00:00.541=-58 721 611 615 1;00:00:00.575=-58 721 900 615 1</property>
+      <property name="transition.rect">00:00:00.000=0 0 720 1280 1;00:00:00.034=0 0 720 1280 1;00:00:00.541=0 0 720 1280 1;00:00:00.575=0 0 720 1280 1</property>
       <property name="transition.valign">top</property>
       <property name="transition.halign">left</property>
       <property name="shotcut:animIn">00:00:00.000</property>
       <property name="shotcut:animOut">00:00:00.000</property>
       <property name="transition.threads">0</property>
+      <property name="disable">0</property>
     </filter>
     <filter id="filter4" out="00:00:00.609">
       <property name="background">colour:0</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineRotate</property>
-      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.034=1.6;00:00:00.186=1.6;00:00:00.541=4;00:00:00.575=25.5</property>
-      <property name="transition.scale_x">00:00:00.000=1;00:00:00.034=0.980392</property>
-      <property name="transition.ox">00:00:00.000=0;00:00:00.034=-4;00:00:00.541=-30;00:00:00.575=-190</property>
-      <property name="transition.oy">00:00:00.000=0;00:00:00.034=4;00:00:00.541=-0;00:00:00.575=-280</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.034=0.7;00:00:00.186=1.6;00:00:00.541=5;00:00:00.575=22</property>
+      <property name="transition.scale_x">00:00:00.000|=1;00:00:00.034=1.2;00:00:00.135=1.237;00:00:00.575=1.4</property>
+      <property name="transition.ox">00:00:00.000=-0;00:00:00.034=-30;00:00:00.186=-36;00:00:00.541=-40;00:00:00.575=-200</property>
+      <property name="transition.oy">00:00:00.000=0;00:00:00.017=10;00:00:00.034=70;00:00:00.186=74;00:00:00.541=88;00:00:00.575=-100;00:00:00.626=-500</property>
       <property name="transition.threads">0</property>
       <property name="shotcut:animIn">00:00:00.000</property>
       <property name="shotcut:animOut">00:00:00.000</property>
-      <property name="transition.scale_y">00:00:00.000=1;00:00:00.034=0.980392</property>
+      <property name="transition.scale_y">00:00:00.000|=1;00:00:00.034=1.2;00:00:00.135=1.237;00:00:00.575=1.4</property>
+      <property name="transition.invert_scale">1</property>
     </filter>
     <filter id="filter5" out="00:00:00.609">
       <property name="mlt_service">avfilter.hue</property>
@@ -320,7 +324,7 @@
   <producer id="producer19" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutY1.mp4_snapshot_00.00.547.png</property>
+    <property name="resource">./char_c.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -484,7 +488,7 @@
   <producer id="producer23" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutY1.mp4_snapshot_00.00.547a.png</property>
+    <property name="resource">./char_d.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
@@ -552,7 +556,7 @@
   <producer id="producer25" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
-    <property name="resource">./AllOutA.mp4_snapshot_00.00.552.png</property>
+    <property name="resource">./char_b.png</property>
     <property name="ttl">1</property>
     <property name="aspect_ratio">1</property>
     <property name="progressive">1</property>
