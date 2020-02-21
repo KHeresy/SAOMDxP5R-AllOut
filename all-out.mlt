@@ -76,20 +76,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">05baf6a452b49bf16d796955121703b3</property>
   </producer>
-  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
-    <property name="length">03:60:00.017</property>
-    <property name="eof">pause</property>
-    <property name="resource">./drop_background.png</property>
-    <property name="ttl">1</property>
-    <property name="aspect_ratio">1</property>
-    <property name="progressive">1</property>
-    <property name="seekable">1</property>
-    <property name="mlt_service">qimage</property>
-    <property name="global_feed">1</property>
-    <property name="xml">was here</property>
-    <property name="shotcut:hash">b448a904d741a602863ee72fca288d42</property>
-  </producer>
-  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.507">
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.507">
     <property name="length">00:00:07.524</property>
     <property name="eof">pause</property>
     <property name="resource">material/knight.mp4</property>
@@ -104,7 +91,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">69b41ced88a270a0767867146696d4ba</property>
   </producer>
-  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
     <property name="resource">drop01.png</property>
@@ -118,7 +105,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">4d191bca5714628ddb3d587e929d90aa</property>
   </producer>
-  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.007">
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.007">
     <property name="length">00:00:04.024</property>
     <property name="eof">pause</property>
     <property name="resource">char-scorlling.mp4</property>
@@ -133,7 +120,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">067d1599db9e0524de111f669116708d</property>
   </producer>
-  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
     <property name="resource">drop02.png</property>
@@ -147,7 +134,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">dcd9ba4b281f29680f1d5d8d71c63525</property>
   </producer>
-  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
     <property name="resource">drop03.png</property>
@@ -161,20 +148,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">58c626e556292a76b8741ba737c892ee</property>
   </producer>
-  <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
-    <property name="length">03:60:00.017</property>
-    <property name="eof">pause</property>
-    <property name="resource">./Final_background.png</property>
-    <property name="ttl">1</property>
-    <property name="aspect_ratio">1</property>
-    <property name="progressive">1</property>
-    <property name="seekable">1</property>
-    <property name="mlt_service">qimage</property>
-    <property name="global_feed">1</property>
-    <property name="xml">was here</property>
-    <property name="shotcut:hash">1add6fb4c1104d7adc4c7f70e6128b19</property>
-  </producer>
-  <producer id="producer11" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
     <property name="resource">./yuuki.png</property>
@@ -188,7 +162,7 @@
     <property name="shotcut:hash">25c5556b628e476218c229d15bec51da</property>
     <property name="ignore_points">0</property>
   </producer>
-  <producer id="producer13" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
     <property name="resource">./logo.png</property>
@@ -201,7 +175,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">5da0cf4026357e110c51eaae2d3b32ca</property>
   </producer>
-  <producer id="producer14" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.990">
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00.000" out="00:00:03.990">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
     <property name="resource">./white.png</property>
@@ -217,7 +191,7 @@
     <property name="shotcut:caption">white.png</property>
     <property name="shotcut:detail">D:\Document\My Video\SAOMD-AllOut\.\white.png</property>
   </producer>
-  <producer id="producer15" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
     <property name="resource">Boss.png</property>
@@ -231,6 +205,20 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">ba6d74db10228ca9362c56c9bda013cf</property>
   </producer>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+    <property name="length">03:60:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">break-boss.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-02-21T12:27:05</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">22532758d886c94a7c7943a3cccc2c74</property>
+  </producer>
   <playlist id="main_bin">
     <property name="xml_retain">1</property>
     <entry producer="producer0" in="00:00:00.000" out="00:00:07.693"/>
@@ -238,17 +226,16 @@
     <entry producer="producer2" in="00:00:00.000" out="00:00:02.671"/>
     <entry producer="producer6" in="00:00:00.000" out="00:00:03.990"/>
     <entry producer="producer9" in="00:00:00.000" out="00:00:03.990"/>
-    <entry producer="producer3" in="00:00:00.000" out="00:00:03.990"/>
-    <entry producer="producer4" in="00:00:00.000" out="00:00:07.507"/>
-    <entry producer="producer5" in="00:00:00.000" out="00:00:03.990"/>
-    <entry producer="producer7" in="00:00:00.000" out="00:00:04.007"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:07.507"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.990"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:04.007"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.990"/>
     <entry producer="producer8" in="00:00:00.000" out="00:00:03.990"/>
     <entry producer="producer10" in="00:00:00.000" out="00:00:03.990"/>
-    <entry producer="producer12" in="00:00:00.000" out="00:00:03.990"/>
     <entry producer="producer11" in="00:00:00.000" out="00:00:03.990"/>
     <entry producer="producer13" in="00:00:00.000" out="00:00:03.990"/>
     <entry producer="producer14" in="00:00:00.000" out="00:00:03.990"/>
-    <entry producer="producer15" in="00:00:00.000" out="00:00:03.990"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:03.990"/>
   </playlist>
   <producer id="black" in="00:00:00.000" out="00:00:07.812">
     <property name="length">00:00:07.829</property>
@@ -262,7 +249,7 @@
   <playlist id="background">
     <entry producer="black" in="00:00:00.000" out="00:00:07.812"/>
   </playlist>
-  <producer id="producer16" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.693">
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.693">
     <property name="length">00:00:07.710</property>
     <property name="eof">pause</property>
     <property name="resource">AllOut.mp4</property>
@@ -277,7 +264,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">0f94581eda8b5996a4f607b0d5c2adb9</property>
     <property name="shotcut:caption">AllOut.mp4</property>
-    <filter id="filter0" out="00:00:07.693">
+    <filter id="filter0" out="00:00:04.802">
       <property name="mlt_service">avfilter.hue</property>
       <property name="av.h">288</property>
       <property name="av.b">-0.9</property>
@@ -287,9 +274,9 @@
   <playlist id="playlist0">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
-    <entry producer="producer16" in="00:00:00.000" out="00:00:07.693"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:04.802"/>
   </playlist>
-  <producer id="producer17" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+  <producer id="producer16" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
     <property name="eof">pause</property>
     <property name="resource">./char_a.png</property>
@@ -383,7 +370,7 @@
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V2</property>
     <blank length="00:00:00.558"/>
-    <entry producer="producer17" in="00:00:00.000" out="00:00:00.609"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:00.609"/>
     <blank length="00:00:03.568"/>
     <entry producer="producer22" in="00:00:00.000" out="00:00:00.473"/>
   </playlist>
@@ -432,7 +419,7 @@
       <property name="disable">1</property>
     </filter>
   </producer>
-  <producer id="producer18" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.671">
+  <producer id="producer17" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.671">
     <property name="length">00:00:02.688</property>
     <property name="eof">pause</property>
     <property name="resource">1.5:char-scorlling.mp4</property>
@@ -496,7 +483,7 @@
     <blank length="00:00:00.558"/>
     <entry producer="producer19" in="00:00:00.000" out="00:00:00.609"/>
     <blank length="00:00:03.957"/>
-    <entry producer="producer18" in="00:00:00.000" out="00:00:02.671"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:02.671"/>
   </playlist>
   <producer id="producer23" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
@@ -642,7 +629,7 @@
     <property name="shotcut:hash">ba6d74db10228ca9362c56c9bda013cf</property>
     <property name="shotcut:caption">Boss.png</property>
     <property name="shotcut:detail">D:\Document\My Video\SAOMD-AllOut\Boss.png</property>
-    <filter id="filter21" out="00:00:03.060">
+    <filter id="filter21" out="00:00:01.403">
       <property name="background">colour:0</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineRotate</property>
@@ -657,13 +644,42 @@
       <property name="shotcut:animOut">00:00:00.000</property>
     </filter>
   </producer>
+  <producer id="producer18" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+    <property name="length">03:60:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">break-boss.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-02-21T12:27:05</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">22532758d886c94a7c7943a3cccc2c74</property>
+    <property name="shotcut:caption">break-boss.png</property>
+    <property name="shotcut:detail">D:\Document\My Video\SAOMD-AllOut\break-boss.png</property>
+    <filter id="filter22" out="00:00:01.640">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.invert_scale">1</property>
+      <property name="transition.fix_rotate_x">-20</property>
+      <property name="transition.scale_x">1</property>
+      <property name="transition.scale_y">1</property>
+      <property name="transition.ox">20</property>
+      <property name="transition.oy">30</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
   <playlist id="playlist4">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V5</property>
     <blank length="00:00:00.558"/>
     <entry producer="producer25" in="00:00:00.000" out="00:00:00.609"/>
     <blank length="00:00:03.568"/>
-    <entry producer="producer28" in="00:00:00.000" out="00:00:03.060"/>
+    <entry producer="producer28" in="00:00:00.000" out="00:00:01.403"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:01.640"/>
   </playlist>
   <producer id="producer20" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
     <property name="length">03:60:00.017</property>
@@ -680,7 +696,7 @@
     <property name="shotcut:hash">4d191bca5714628ddb3d587e929d90aa</property>
     <property name="shotcut:caption">drop01.png</property>
     <property name="shotcut:detail">D:\Document\My Video\SAOMD-AllOut\drop01.png</property>
-    <filter id="filter22" out="00:00:00.085">
+    <filter id="filter23" out="00:00:00.085">
       <property name="background">colour:0</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineSizePosition</property>
@@ -709,7 +725,7 @@
     <property name="shotcut:hash">dcd9ba4b281f29680f1d5d8d71c63525</property>
     <property name="shotcut:caption">drop02.png</property>
     <property name="shotcut:detail">D:\Document\My Video\SAOMD-AllOut\drop02.png</property>
-    <filter id="filter23" out="00:00:00.085">
+    <filter id="filter24" out="00:00:00.085">
       <property name="background">colour:0</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineSizePosition</property>
@@ -738,7 +754,7 @@
     <property name="shotcut:hash">58c626e556292a76b8741ba737c892ee</property>
     <property name="shotcut:caption">drop03.png</property>
     <property name="shotcut:detail">D:\Document\My Video\SAOMD-AllOut\drop03.png</property>
-    <filter id="filter24" out="00:00:00.237">
+    <filter id="filter25" out="00:00:00.237">
       <property name="background">colour:0</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineSizePosition</property>
@@ -752,6 +768,42 @@
       <property name="transition.threads">0</property>
     </filter>
   </producer>
+  <producer id="producer27" title="Anonymous Submission" in="00:00:00.000" out="03:59:60.007">
+    <property name="length">03:60:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">./logo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5da0cf4026357e110c51eaae2d3b32ca</property>
+    <property name="shotcut:caption">logo.png</property>
+    <property name="shotcut:detail">D:\Document\My Video\SAOMD-AllOut\.\logo.png</property>
+    <filter id="filter26" out="00:00:01.505">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">0 0 355 261 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter27" out="00:00:01.505">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.998=1</property>
+      <property name="shotcut:animIn">00:00:01.014</property>
+    </filter>
+  </producer>
   <playlist id="playlist5">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V6</property>
@@ -759,6 +811,8 @@
     <entry producer="producer20" in="00:00:00.000" out="00:00:00.085"/>
     <entry producer="producer21" in="00:00:00.000" out="00:00:00.085"/>
     <entry producer="producer24" in="00:00:00.000" out="00:00:00.237"/>
+    <blank length="00:00:01.099"/>
+    <entry producer="producer27" in="00:00:00.000" out="00:00:01.505"/>
   </playlist>
   <producer id="producer29" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.507">
     <property name="length">00:00:07.524</property>
@@ -775,7 +829,7 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">69b41ced88a270a0767867146696d4ba</property>
     <property name="shotcut:caption">knight.mp4</property>
-    <filter id="filter25" in="00:00:01.336" out="00:00:04.007">
+    <filter id="filter28" in="00:00:01.336" out="00:00:04.007">
       <property name="version">0.6</property>
       <property name="mlt_service">frei0r.select0r</property>
       <property name="0">#010001</property>
@@ -790,7 +844,7 @@
       <property name="9">0</property>
       <property name="disable">0</property>
     </filter>
-    <filter id="filter26" in="00:00:01.336" out="00:00:04.007">
+    <filter id="filter29" in="00:00:01.336" out="00:00:04.007">
       <property name="background">colour:0</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineSizePosition</property>
@@ -803,7 +857,7 @@
       <property name="shotcut:animOut">00:00:00.000</property>
       <property name="transition.threads">0</property>
     </filter>
-    <filter id="filter27" in="00:00:01.336" out="00:00:04.007">
+    <filter id="filter30" in="00:00:01.336" out="00:00:04.007">
       <property name="start">1</property>
       <property name="level">1</property>
       <property name="mlt_service">brightness</property>
